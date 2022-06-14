@@ -56,6 +56,10 @@ h3 {
   /* margin: 0; */
 }
 
+a {
+  text-decoration: none;
+}
+
 section {
   align-self: center;
   max-width: 70rem;
@@ -126,6 +130,9 @@ dd {
   position: relative;
 }
 
+.indent {
+  text-indent: 50px;
+}
 .hero .overlay {
   position: absolute;
   inset: 0;
